@@ -7,7 +7,7 @@ Bienvenido! I am a PhD student at Johns Hopkins University using deep learning a
 
 I am passionate about ... My research ...
 
-** What keeps me up at night: ** 
+**What keeps me up at night:** 
   - **Antibody design**: ?
   - **Deep Learning Representations**: ?
   - **Membrane Proteins**: ?
