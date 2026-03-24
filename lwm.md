@@ -3,9 +3,9 @@ layout: page
 title: Learn with me
 ---
 
-Check out my tutorials on the following math topics: 
+Check out my tutorials/notebooks on the following math topics: 
 
-[Statistics](Statistics/)
+# [Statistics](Statistics/)
   * Topic 1:
   * Topic 2:
   * Topic 3:
@@ -14,8 +14,8 @@ Check out my tutorials on the following math topics:
   * Topic 6:
 
 [Linear Algebra]()
-  * Topic 1:
-  * Topic 2:
-  * Topic 3:
-
+[Intro Biology]()
+[Cell Biology]()
+[Immunology]()
+[Biology]()
 
