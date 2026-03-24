@@ -5,12 +5,13 @@ title: Learn with me
 
 Check out my tutorials/notebooks on the following topics: 
 
-[Introdcutory Statistics](Statistics/index.md)
+[Introdcutory Statistics](Intro_Statistics/index.md)
 
 
 
 
 Coming soon...
+
 [Statistical Learning]()
 
 [Bayesian Statistics]()
