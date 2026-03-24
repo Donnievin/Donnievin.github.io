@@ -13,3 +13,8 @@ I am passionate about ... My research ...
   - **Membrane Proteins**: ?
 
 Feel free to check out [info about me](name.md), details about [current research](name2.md), and my passionate side hobby [teaching tutorials](name3.md)
+
+
+<div style="display: flex; justify-content: center;">
+  <img src="images/antibodies.png", alt="Antibodies">
+</div>
