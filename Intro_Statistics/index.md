@@ -4,7 +4,7 @@ permalink: /Intro_Statistics/
 nav_exclude: true
 ---
 
-This 
+This follows the [Openstax Introductory Statistics](https://openstax.org/details/books/statistics) textbook and gives a summary of the high level concepts along with worked examples.
 
 Topics: 
 
