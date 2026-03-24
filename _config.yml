@@ -6,3 +6,9 @@ author:
 
 # Build settings 
 remote_theme: jekyll/minima
+
+# Force this 
+header_pages: 
+  - about.md
+  - research.md
+  - lwm.md
