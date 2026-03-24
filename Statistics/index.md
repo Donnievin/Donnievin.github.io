@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistics
-permalink: /Statistics/index
+permalink: /Statistics/
 nav_exclude: true
 ---
 
