@@ -16,5 +16,5 @@ Feel free to check out [info about me](name.md), details about [current research
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/antibodies.png", alt="Antibodies">
+  <img src="images/Antibodies.png", alt="Antibodies">
 </div>
