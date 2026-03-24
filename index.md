@@ -22,10 +22,10 @@ Image Source: [Absolute Antibody](https://absoluteantibody.com/antibody-resource
   - **Deep Learning Representations**: Historically, scientists have represented proteins using naïve approaches (such as one-hot encodings) or biophysically informed ones (hydrophobicity, charge, aromaticity, etc.). However, deep learning introduces a new objective: just letting the model figure it out. Is this really better than all of these previous techniques that hundreds of scientists have spent decades learning from thousands of experiments? How well do these learned embeddings generalize to unseen antigens?
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/Antibodies.png" alt="Antibodies">
+  <img src="images/Representaion.png" alt="Representation">
 </div>
 
-Image Source: [Absolute Antibody](https://absoluteantibody.com/antibody-resources/antibody-overview/antibody-isotypes-subtypes/)
+Image Source: Chapter 30 in [Foundations of Computer Vision by Antonio Torralba, Phillip Isola, and William Freeman](https://visionbook.mit.edu)
 
 
   - **Membrane Proteins**: T cells are like B cells older cousins. While they can mediate some innate immune functions via memory T cells, they predominantly help with adaptive immunity. So many new therapeutic drugs (bsAbs, BiTES, CAR-Ts, etc.) rely on the activation of specific membrane proteins, called receptors, displayed on the surface of these cells. However, we have very little cell surface data and membrane proteins still present a major challenge to model!
