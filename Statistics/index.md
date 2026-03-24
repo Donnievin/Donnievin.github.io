@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Statistics
 permalink: /Statistics/
 nav_exclude: true
 ---
