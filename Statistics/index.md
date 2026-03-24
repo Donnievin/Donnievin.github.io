@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: /Statistics/index.md
+permalink: /Statistics/index
 ---
 
 TEST WORDS 
