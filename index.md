@@ -2,6 +2,13 @@
 layout: home
 ---
 
-Bienvenido! I am a PhD student at Johns Hopkins University using deep learning and data science principles to push advancements in de novo protein design. 
+Bienvenido! I am a PhD student at Johns Hopkins University using deep learning and data science principles to push advancements in de novo protein design.
+
+I am passionate about ... My research ...
+
+### What keeps me up at night 
+  * \textbf{Antibody design}: ?
+  * \textbf{Deep Learning Representations}: ?
+  * \textbf{Membrane Proteins}: ?
 
 Feel free to check out [info about me](name.md), details about [current research](name2.md), and my passionate side hobby [teaching tutorials](name3.md)
