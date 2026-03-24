@@ -4,7 +4,7 @@ permalink: /Intro_Statistics/
 nav_exclude: true
 ---
 
-This follows the [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman]([https://openstax.org/details/books/statistics](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)) textbook and gives a summary of the high level concepts along with worked examples. All rights belong to their rightful owners.
+This follows the [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf) textbook and gives a summary of the high level concepts along with worked examples. All rights belong to their rightful owners.
 
 Topics: 
 
