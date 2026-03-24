@@ -22,7 +22,7 @@ Image Source: [Absolute Antibody](https://absoluteantibody.com/antibody-resource
   - **Deep Learning Representations**: Historically, scientists have represented proteins using naïve approaches (such as one-hot encodings) or biophysically informed ones (hydrophobicity, charge, aromaticity, etc.). However, deep learning introduces a new objective: just letting the model figure it out. Is this really better than all of these previous techniques that hundreds of scientists have spent decades learning from thousands of experiments? How well do these learned embeddings generalize to unseen antigens?
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/Representaion.png" alt="Representation">
+  <img src="images/Representation.png" alt="Representation">
 </div>
 
 Image Source: Chapter 30 in [Foundations of Computer Vision by Antonio Torralba, Phillip Isola, and William Freeman](https://visionbook.mit.edu)
