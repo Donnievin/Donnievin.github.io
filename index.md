@@ -10,7 +10,7 @@ Feel free to check out [info about me](name.md), details about [current research
 I am passionate about ... My research ...
 
 **What keeps me up at night:** 
-  - **Antibody design**: Can you believe that a single-chain variable fragment (scFv) which is approximately 225-250 amino acids long has over $20^{200}$ possible combinations. For reference there are up to $4e11$ stars in the Milky Way galaxy. If each star became a galaxy of stars, we would still have LESS stars than possible scFv combinations. That means given a target, we are literally searching for a `needle in a haystack`. Using deep learning tools is analogous to going up to the haystack with a `kitchen magnet`. While we aren't guaranteed to find exactly what we are looking for in the haystack, but it sure does make the search slightly easier!
+  - **Antibody design**: Can you believe that a single-chain variable fragment (scFv) which is approximately 225-250 amino acids long has over 2e200 possible combinations. For reference there are up to 4e11 stars in the Milky Way galaxy. If each star became a galaxy of stars, we would still have LESS stars than possible scFv combinations. That means given a target, we are literally searching for a `needle in a haystack`. Using deep learning tools is analogous to going up to the haystack with a `kitchen magnet`. While we aren't guaranteed to find exactly what we are looking for in the haystack, but it sure does make the search slightly easier!
 
 <div style="display: flex; justify-content: center;">
   <img src="images/Antibodies.png", alt="Antibodies">
