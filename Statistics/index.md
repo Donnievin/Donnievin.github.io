@@ -2,6 +2,7 @@
 layout: page
 title: Statistics
 permalink: /Statistics/index
+nav_exclude: true
 ---
 
 Topics: 
