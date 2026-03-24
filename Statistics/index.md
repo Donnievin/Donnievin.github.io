@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test
-permalink: /
+title: Statistics
+permalink: /Statistics/index
 ---
 
 Topics: 
