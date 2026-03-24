@@ -5,7 +5,7 @@ title: Learn with me
 
 Check out my tutorials/notebooks on the following topics: 
 
-[Statistics](Statistics/)
+[Statistics](Statistics/index.md)
 
 
 
