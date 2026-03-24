@@ -3,12 +3,12 @@ layout: page
 title: Learn with me
 ---
 
-# Check out my tutorials/notebooks on the following topics: 
+## Check out my tutorials/notebooks on the following topics: 
 
 [Statistics](Statistics/)
 
 
-# Coming soon...
+## Coming soon...
 
 [Linear Algebra]()
 
