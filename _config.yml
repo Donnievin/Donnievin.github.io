@@ -5,4 +5,4 @@ author:
   email: dvincen9@jh.edu
 
 # Build settings 
-remote_theme: dieghernan/chulapa
+remote_theme: jekyll/minima
