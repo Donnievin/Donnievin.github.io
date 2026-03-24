@@ -30,10 +30,10 @@ Image Source: [Absolute Antibody](https://absoluteantibody.com/antibody-resource
 
   - **Membrane Proteins**: T cells are like B cells older cousins. While they can mediate some innate immune functions via memory T cells, they predominantly help with adaptive immunity. So many new therapeutic drugs (bsAbs, BiTES, CAR-Ts, etc.) rely on the activation of specific membrane proteins, called receptors, displayed on the surface of these cells. However, we have very little cell surface data and membrane proteins still present a major challenge to model!
 
-<div style="display: flex; justify-content: center;">
-  <img src="images/bsAbs.png" alt="bsAbs">
-  <img src="images/CART.png" alt="CART">
-  <img src="images/BiTES.png" alt="BiTES">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="images/bsAbs.png" alt="bsAbs" style="width: 30%; height: auto;">
+  <img src="images/CART.png" alt="CART" style="width: 30%; height: auto;">
+  <img src="images/BiTES.png" alt="BiTES" style="width: 30%; height: auto;">
 </div>
 
 Image Sources: 
