@@ -10,7 +10,7 @@ title: Awards
   - `Desc`: This award recognizes outstanding performance as a graduate teaching assistant in the Whiting School of Engineering. It is awarded to one graduate student from the Whiting School of Engineering (WSE) out of more than ?? teaching assistants across numerous classes. This is a student nominated, committee selected award.
 
 
-[National Science Foundation - Graduate Research Fellowship Program (NSF GRFP)](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) [Honorable Mention](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
+[National Science Foundation - Graduate Research Fellowship Program (NSF GRFP)](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) [ [Honorable Mention](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) ]
   - `Year`: Spring 2025
   - `Desc`: The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States. Since 1952, the program recognizes and supports outstanding graduate students who are pursuing full-time research-based master's and doctoral degrees in science, technology, engineering, and mathematics (STEM) fields, including STEM education. NSF GRFP was established to recruit and support individuals who demonstrate the potential to make significant contributions in STEM, including STEM education. NSF encourages applications from the full spectrum of talent that the U.S. has to offer
 
