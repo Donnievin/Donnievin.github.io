@@ -11,7 +11,7 @@ Some useful DS, AI, DL workshops and topics:
   - Linear Regression (LR) and Support Vector Machines (SVMs)
   - [Shapley Value]()
 
-*Deep Learning Architectures*
+*Deep Learning Architectures:*
 -
   - Neural Networks (NNs)
   - LSTMs
