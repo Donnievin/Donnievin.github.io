@@ -18,7 +18,7 @@ Coming soon...
 
 [Probability]()
 
-[Linear Algebra]()
+[Linear Algebra](Linear_Algebra/index.md)
 
 [Intro Biology]()
 
