@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Learn with me
+title: Learn with me📚
 ---
 
 Check out my tutorials/notebooks on the following topics: 
 
 [Introdcutory Statistics](Introductory_Statistics/index.md)
-
 
 
 
