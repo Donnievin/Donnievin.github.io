@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: Awards🏆
 ---
 
 **A few milestones along the way:**
