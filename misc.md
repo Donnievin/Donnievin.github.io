@@ -21,5 +21,8 @@ Some useful DS, AI, DL workshops and topics:
 -
   - Neural Networks (NNs)
   - LSTMs
+  - CNNs
+  - ResNet
+  - U-Net
   - Bayesian Neural Networks
   - 
