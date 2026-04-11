@@ -4,6 +4,9 @@ title: Misc Topics🧠
 ---
 
 Some useful DS, AI, DL workshops and topics:
+*Useful Githubs:* 
+-
+  -[Beginner Friendly DS Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects?tab=readme-ov-file)
 
 
 *Data Science Topics:*
@@ -25,4 +28,7 @@ Some useful DS, AI, DL workshops and topics:
   - ResNet
   - U-Net
   - Bayesian Neural Networks
+
+*Generative Models* 
+- 
   - 
