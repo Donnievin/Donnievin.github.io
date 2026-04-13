@@ -11,8 +11,7 @@ Some useful DS, AI, DL workshops and topics:
 *Scoring Metrics:*
 - 
   - [Normalized Discounted Cumulative Gain at K NDGC@K](Misc/NDCGaK.ipynb)
-  - [Normalized Discounted Cumulative Gain at K NDCG@K](https://nbviewer.org/github/Donnievin/Donnievin.github.io/tree/main/Misc/NDCGaK.ipynb)
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/NDCGaK.ipynb) <font color='darkblue'>Normalized Discounted Cumulative Gain at K [NDGC@K] </font>
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/NDCGaK.ipynb) Normalized Discounted Cumulative Gain at K [NDGC@K]
 
 
 *Data Science Topics:*
