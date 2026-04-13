@@ -8,6 +8,9 @@ Some useful DS, AI, DL workshops and topics:
 -
   -[Beginner Friendly DS Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects?tab=readme-ov-file)
 
+*Scoring Metrics:*
+- 
+  - [Normalized Discounted Cumulative Gain at K NDGC@K](Misc/NDCGaK.ipynb)
 
 *Data Science Topics:*
 -
