@@ -11,6 +11,8 @@ Some useful DS, AI, DL workshops and topics:
 *Scoring Metrics:*
 - 
   - [Normalized Discounted Cumulative Gain at K NDGC@K](Misc/NDCGaK.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmith/ml-notebooks/blob/main/Misc/NDCGaK.ipynb)
+
 
 *Data Science Topics:*
 -
