@@ -23,18 +23,21 @@ Topics:
    * Matrices as Linear Transformations
    * Matrix Operations
    * Elimination
+---
 
 3. Matrix Algebra II
    * Inverse
    * Transpose
    * Permuatation
    * Facotrization
+---
 
 4. Matrix Algebra III
    * Nullspace
    * Rank
    * Basis and change of basis
    * Dimensions, SUBSPACES, IPS
+---
 
 5. Interlude I: Special Matrices
    * Diagonal
@@ -43,38 +46,46 @@ Topics:
    * Unitary
    * PSD
    * Matrix Exponents
+---
 
 6. Determinants
    * Geometric Interpretation
    * Cramer's Rule
    * Inverses
    * Volumes
-   
+---
+
 7. Orthogonality
    * Projections
    * Least_Squares Problem
    * Gram-Schmidt Process
-  
+---  
 
 8. Interlude II
    * Similar Matrics as the same linear projection
    * Quadratic Form
    * Condition Numbers
+---
 
 9. Eigenvalues and Eigenvectors
    * Characteristic Equation
    * Diagonalization
    * Applications to ODE
+---
 
 10. Singular Value Decomposition (SVD)
+---
 
 11. PseudoInverses (I, II, III, IV Generalized Inverses or Moore Penrose)
+---
 
 12. Matrix Exponents (What does it mean for a matrix to be an exponent, 
+---
 
 13. Applications
    * Graphs
    * Markov Matrices/Chains,
    * Fourier Series / Fast Fourier Transform
+---
 
 14. Misc Topic I: Linear Algebra for Stats and Probab
