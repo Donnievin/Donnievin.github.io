@@ -12,25 +12,25 @@ As a result, I have taken selections and problems from all of these to help stri
 Topics: 
 
 1. The Language Of Linear Algebra: Vectors, Matrices, and Operations between them
+-
     * Norms or Length
     * Dot (Inner) Products
     * Linear Conbinations + Independence
     * Matrices
----
     
 2. Intro to Matrix Algebra
+-
    * The Matrix Equation
    * Matrices as Linear Transformations
    * Matrix Operations
    * Elimination
----
 
 3. Matrix Algebra II
+-
    * Inverse
    * Transpose
    * Permuatation
    * Facotrization
----
 
 4. Matrix Algebra III
    * Nullspace
