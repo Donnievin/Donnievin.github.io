@@ -32,7 +32,6 @@ Image Source: Chapter 30 in [Foundations of Computer Vision](https://visionbook.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="images/bsAbs.png" alt="bsAbs" style="width: 50%; height: auto;">
-  # <img src="images/CART.png" alt="CART" style="width: 50%; height: auto;">
   <img src="images/BiTES.png" alt="BiTES" style="width: 50%; height: auto;">
 </div>
 
