@@ -16,14 +16,13 @@ Topics:
     * Dot (Inner) Products
     * Linear Conbinations + Independence
     * Matrices
--
+---
     
 2. Intro to Matrix Algebra
    * The Matrix Equation
    * Matrices as Linear Transformations
    * Matrix Operations
    * Elimination
--
 
 3. Matrix Algebra II
    * Inverse
