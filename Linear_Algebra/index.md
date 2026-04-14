@@ -17,16 +17,21 @@ Topics:
     * Linear Conbinations + Independence
     * Matrices
     
-3. Intro to Matrix Algebra (The Matrix Equation, Matrices as Linear Transformations, Matrix Operations, Elimination)
-4. Matrix Algebra II (Inverse, Transpose, Permuatation, Facotrization)
-5. Matrix Algebra III (Nullspace, Rank, Basis and change of basis, Dimensions, SUBSPACES, IPS)
-6. Interlude I: Special Matrices (Diagonal, Symmetric, Hermitian, Unitary, PSD)
-7. Determinants (Cramer's Rule, Inverses, Volumes)
-8. Orthogonality (Projections, Least_Squares Problem, Gram-Schmidt Process)
-9. Interlude II: (Similar Matrics as the same linear projection, Quadratic Form, Condition Numbers)
-10. Eigenvalues and Eigenvectors (Characteristic Equation, Diagonalization, Applications to ODE)
-11. Singular Value Decomposition (SVD)
-12. PseudoInverses (I, II, III, IV Generalized Inverses or Moore Penrose)
-13. Applications (Graphs, Markov Matrices/Chains, Fourier Series)
-14. Misc Topic I: Linear Algebra for Stats and Probab
-15. Misc Topic II: Fast Fourier Transform
+2. Intro to Matrix Algebra
+   * The Matrix Equation
+   * Matrices as Linear Transformations
+   * Matrix Operations
+   * Elimination
+
+5. Matrix Algebra II (Inverse, Transpose, Permuatation, Facotrization)
+6. Matrix Algebra III (Nullspace, Rank, Basis and change of basis, Dimensions, SUBSPACES, IPS)
+7. Interlude I: Special Matrices (Diagonal, Symmetric, Hermitian, Unitary, PSD)
+8. Determinants (Cramer's Rule, Inverses, Volumes)
+9. Orthogonality (Projections, Least_Squares Problem, Gram-Schmidt Process)
+10. Interlude II: (Similar Matrics as the same linear projection, Quadratic Form, Condition Numbers)
+11. Eigenvalues and Eigenvectors (Characteristic Equation, Diagonalization, Applications to ODE)
+12. Singular Value Decomposition (SVD)
+13. PseudoInverses (I, II, III, IV Generalized Inverses or Moore Penrose)
+14. Applications (Graphs, Markov Matrices/Chains, Fourier Series)
+15. Misc Topic I: Linear Algebra for Stats and Probab
+16. Misc Topic II: Fast Fourier Transform
