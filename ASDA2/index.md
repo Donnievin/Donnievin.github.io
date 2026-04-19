@@ -4,7 +4,7 @@ permalink: /ASDA_2/
 nav_exclude: true
 ---
 
-These python workbooks are adaptations from [Dr. Sergey Kushnarev's](https://sergey-kushnarev.github.io/about.html) Applied Statistics and Data Analysis Course at Johns Hopkins University.
+These python workbooks are adaptations from [Dr. Sergey Kushnarev's](https://sergey-kushnarev.github.io/about.html) "Applied Statistics and Data Analysis II" Course at Johns Hopkins University.
 This course focuses on `Generalized Linear Models (GLMs)` and material was adapted from [Foundations of Linear and Generalized Linear Models by Alan Agresti at UF](https://alanagresti.com) and [Generalized Linear Models by P. McCullagh and J.A Nelder](https://utstat.utoronto.ca/brunner/oldclass/2201s11/readings/glmbook.pdf).
 All datasets used are either synthetic or can be accessed publicly through [Dr. Agresti's website](https://alanagresti.com/glm/data/).
 
