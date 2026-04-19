@@ -78,8 +78,7 @@ Topics:
 
 ---
 
-
-9 Overdispersion
+1. Overdispersion
     * Inflated Variance
     * Zero-Inflated Poisson (ZIP) Model
     * Zero-Inflated Negative Binomial (ZINB) Model
@@ -89,7 +88,7 @@ Topics:
 --- 
 
 
-10 Contingency Tables
+2. Contingency Tables
     * Mutual Independence
     * Joint Independence
     * Conditional Independence
@@ -98,7 +97,7 @@ Topics:
 --- 
 
 
-11 Generalized Linear Mixed Models
+3. Generalized Linear Mixed Models
     * Normal Linear Mixed Models
     * Binomial GLMMs
     * Poisson GLMMs
