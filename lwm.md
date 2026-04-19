@@ -33,5 +33,5 @@ Coming soon...
 
 ---
 
-These notes are intented to be used a *supplementary educational materials* and not published textbooks. Feedback is always welcome
+These notes are intented to be used a **supplementary educational materials** and not published textbooks. Feedback is always welcome
 
