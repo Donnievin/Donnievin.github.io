@@ -94,20 +94,14 @@ Topics:
    * Conditional Independence
 
 
-
---- 
-
-
-10 Contingency Tables
-    * Mutual Independence
-    * Joint Independence
-    * Conditional Independence
-
-
---- 
+---
 
 
 11 Generalized Linear Mixed Models
-    * Normal Linear Mixed Models
-    * Binomial GLMMs
-    * Poisson GLMMs
+   * Normal Linear Mixed Models
+   * Binomial GLMMs
+   * Poisson GLMMs
+
+
+---
+
