@@ -14,8 +14,8 @@ Topics:
    * Random Component
    * Linear Predictor
    * Link functions (Canonical)
-   * Likelihood Equations
    * Mean-Variance Relationship
+   * Likelihood Equations
   
 ---
 
