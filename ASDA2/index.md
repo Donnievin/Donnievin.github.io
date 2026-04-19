@@ -20,16 +20,21 @@ Topics:
 ---
 
   
-3. Likelihood Theory
+2. Likelihood Theory
    * Fisher Information Matrix
    * Likelihood Ratio Test
    * Wald Test
    * Deviance ($G^2$)
    * Pearson ($\Chi^2$)
    * Residuals
+  
+---
 
-4. The Poisson GLM (log-linear models)
+3. The Poisson GLM (log-linear models)
    * Norms or Length
+  
+
+---
     
 5. Fitting/Building a GLM
    * Fisher Scoring
