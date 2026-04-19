@@ -17,7 +17,10 @@ Topics:
    * Likelihood Equations
    * Mean-Variance Relationship
   
-2. Likelihood Theory
+---
+
+  
+3. Likelihood Theory
    * Fisher Information Matrix
    * Likelihood Ratio Test
    * Wald Test
@@ -25,46 +28,46 @@ Topics:
    * Pearson ($\Chi^2$)
    * Residuals
 
-3. The Poisson GLM (log-linear models)
+4. The Poisson GLM (log-linear models)
    * Norms or Length
     
-4. Fitting/Building a GLM
+5. Fitting/Building a GLM
    * Fisher Scoring
    * Newton Raptison
    * Variable Selection
    * Akaike Information Criterion (AIC)
 
-5. Binomial Models: Symmetric PDFs
+6. Binomial Models: Symmetric PDFs
    * Grouped vs Ungrouped
    * Threshold Model
    * Logistic Model
    * Classification Table
   
-6. Binomial Models: Non-Symmestric PDFs 
+7. Binomial Models: Non-Symmestric PDFs 
    * Log-log
    * Clog-log
 
-7. Multinomial Models
+8. Multinomial Models
    * Nominal vs Ordinal
    * Nomimal: Baseline category logits
    * Ordinal: Cumulative logits (proportional odds)
 
-8. Poisson GLM pt 2
+9. Poisson GLM pt 2
    * Modeling count data
    * Modeling rates
   
-9. Overdispersion
+10. Overdispersion
     * Inflated Variance
     * Zero-Inflated Poisson (ZIP) Model
     * Zero-Inflated Negative Binomial (ZINB) Model
     * Negative Binomial 2nd Order (NB2)
   
-10. Contingency Tables
+11. Contingency Tables
     * Mutual Independence
     * Joint Independence
     * Conditional Independence
 
-11. Generalized Linear Mixed Models
+12. Generalized Linear Mixed Models
     * Normal Linear Mixed Models
     * Binomial GLMMs
     * Poisson GLMMs
