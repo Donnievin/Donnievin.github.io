@@ -12,3 +12,7 @@ header_pages:
   - about.md
   - research.md
   - lwm.md
+
+# Allow Jekyll to render LaTex
+kramdown:
+  math_engine: mathjax
