@@ -11,6 +11,8 @@ Check out my tutorials/notebooks on the following topics:
 
 
 
+---
+
 Coming soon...
 
 [Statistical Learning](Statistical_Learning/index.md)
@@ -28,4 +30,8 @@ Coming soon...
 [Immunology]()
 
 [Biochemistry]()
+
+---
+
+These notes are intented to be used a *supplementary educational materials* and not published textbooks. Feedback is always welcome
 
