@@ -88,18 +88,10 @@ Topics:
 
 --- 
 
-7 Multinomial Models
-   * Nominal vs Ordinal
-   * Nomimal: Baseline category logits
-   * Ordinal: Cumulative logits (proportional odds)
-
-
----
-
-
-8 Poisson GLM pt 2
-   * Modeling count data
-   * Modeling rates
+10 Contingency Tables
+   * Mutual Independence
+   * Joint Independence
+   * Conditional Independence
 
 
 
