@@ -10,7 +10,7 @@ All datasets used are either synthetic or can be accessed publicly through [Dr. 
 
 Topics: 
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/NDCGaK.ipynb) **Introduction to GLMs**
+1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/NDCGaK.ipynb) **Introduction to GLMs**
    * Random Component
    * Linear Predictor
    * Link functions (Canonical)
@@ -20,7 +20,7 @@ Topics:
 ---
 
   
-2. Likelihood Theory
+2 Likelihood Theory
    * Fisher Information Matrix
    * Likelihood Ratio Test
    * Wald Test
@@ -30,49 +30,75 @@ Topics:
   
 ---
 
-3. The Poisson GLM (log-linear models)
+3 The Poisson GLM (log-linear models)
    * Norms or Length
   
 
 ---
     
-5. Fitting/Building a GLM
+4  Fitting/Building a GLM
    * Fisher Scoring
    * Newton Raptison
    * Variable Selection
    * Akaike Information Criterion (AIC)
 
-6. Binomial Models: Symmetric PDFs
+---
+
+
+5 Binomial Models: Symmetric PDFs
    * Grouped vs Ungrouped
    * Threshold Model
    * Logistic Model
    * Classification Table
-  
-7. Binomial Models: Non-Symmestric PDFs 
+
+
+---
+
+
+6 Binomial Models: Non-Symmestric PDFs 
    * Log-log
    * Clog-log
 
-8. Multinomial Models
+
+--- 
+
+7 Multinomial Models
    * Nominal vs Ordinal
    * Nomimal: Baseline category logits
    * Ordinal: Cumulative logits (proportional odds)
 
-9. Poisson GLM pt 2
+
+---
+
+
+8 Poisson GLM pt 2
    * Modeling count data
    * Modeling rates
-  
-10. Overdispersion
+
+
+---
+
+
+9 Overdispersion
     * Inflated Variance
     * Zero-Inflated Poisson (ZIP) Model
     * Zero-Inflated Negative Binomial (ZINB) Model
     * Negative Binomial 2nd Order (NB2)
-  
-11. Contingency Tables
+
+
+--- 
+
+
+10 Contingency Tables
     * Mutual Independence
     * Joint Independence
     * Conditional Independence
 
-12. Generalized Linear Mixed Models
+
+--- 
+
+
+11 Generalized Linear Mixed Models
     * Normal Linear Mixed Models
     * Binomial GLMMs
     * Poisson GLMMs
