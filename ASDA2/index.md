@@ -10,7 +10,7 @@ All datasets used are either synthetic or can be accessed publicly through [Dr. 
 
 Topics: 
 
-1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/NDCGaK.ipynb) **Introduction to GLMs**
+1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/ASDA2/1_Intro2GLMs.ipynb) **Introduction to GLMs**
    * Random Component
    * Linear Predictor
    * Link functions (Canonical)
