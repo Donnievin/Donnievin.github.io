@@ -78,11 +78,29 @@ Topics:
 
 ---
 
+
 9 Overdispersion
-    * Inflated Variance
-    * Zero-Inflated Poisson (ZIP) Model
-    * Zero-Inflated Negative Binomial (ZINB) Model
-    * Negative Binomial 2nd Order (NB2)
+   * Inflated Variance
+   * Zero-Inflated Poisson (ZIP) Model
+   * Zero-Inflated Negative Binomial (ZINB) Model
+   * Negative Binomial 2nd Order (NB2) Model
+
+
+--- 
+
+7 Multinomial Models
+   * Nominal vs Ordinal
+   * Nomimal: Baseline category logits
+   * Ordinal: Cumulative logits (proportional odds)
+
+
+---
+
+
+8 Poisson GLM pt 2
+   * Modeling count data
+   * Modeling rates
+
 
 
 --- 
