@@ -5,7 +5,7 @@ title: Learn with me📚
 
 Check out my tutorials/notebooks on the following topics: 
 
-[Introdcutory Statistics](Introductory_Statistics/index.md)
+[Introductory Statistics](Introductory_Statistics/index.md)
 
 [Generalized Linear Mixed Models](ASDA2/index.md)
 
