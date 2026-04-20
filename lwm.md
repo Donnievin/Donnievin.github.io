@@ -15,6 +15,8 @@ Check out my tutorials/notebooks on the following topics:
 
 Coming soon...
 
+[Applied Linear Statistics Models](Statistical_Learning/index.md)
+
 [Statistical Learning](Statistical_Learning/index.md)
 
 [Bayesian Statistics](Bayesian_Statistics/index.md)
