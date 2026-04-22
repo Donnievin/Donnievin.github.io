@@ -7,7 +7,7 @@ Check out my tutorials/notebooks on the following topics:
 
 [Introductory Statistics](Introductory_Statistics/index.md)
 
-[Generalized Linear Mixed Models](ASDA2/index.md)
+[Generalized Linear Mixed Models](Courses/ASDA2/index.md)
 
 
 
