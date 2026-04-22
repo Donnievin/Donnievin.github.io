@@ -5,7 +5,7 @@ title: Learn with me📚
 
 Check out my tutorials/notebooks on the following topics: 
 
-[Introductory Statistics](Introductory_Statistics/index.md)
+[Introductory Statistics](Courses/Introductory_Statistics/index.md)
 
 [Generalized Linear Mixed Models](Courses/ASDA2/index.md)
 
@@ -15,15 +15,15 @@ Check out my tutorials/notebooks on the following topics:
 
 Coming soon...
 
-[Applied Linear Statistics Models](Statistical_Learning/index.md)
+[Applied Linear Statistics Models](Courses/ASDA1/index.md)
 
-[Statistical Learning](Statistical_Learning/index.md)
+[Statistical Learning](Courses/Statistical_Learning/index.md)
 
-[Bayesian Statistics](Bayesian_Statistics/index.md)
+[Bayesian Statistics](Courses/Bayesian_Statistics/index.md)
 
 [Probability]()
 
-[Linear Algebra](Linear_Algebra/index.md)
+[Linear Algebra](Courses/Linear_Algebra/index.md)
 
 [Intro Biology]()
 
