@@ -66,6 +66,7 @@ Topics:
    * Interpretation of SSR
    * General Linear Test
    * Matrix Approach to Linear Regression
+   * One-Factor Anova
 
 
 --- 
@@ -97,16 +98,16 @@ Topics:
 
 --- 
 
-10 Contingency Tables
-   * Mutual Independence
-   * Joint Independence
-   * Conditional Independence
+10 Alternatve Regressions
+   * Ridge regression
+   * Robust regression
+   * Logistic regression
 
 
 ---
 
 
-11 Generalized Linear Mixed Models
+11 A
    * Normal Linear Mixed Models
    * Binomial GLMMs
    * Poisson GLMMs
