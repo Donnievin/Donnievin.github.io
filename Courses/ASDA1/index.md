@@ -11,7 +11,7 @@ All datasets used are either synthetic or can be accessed publicly through [webs
 
 Topics: 
 
-1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/0_Review_ProbStats.ipynb) **Review of Probability and Statistics**
+1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA1/0_Review_ProbStats.ipynb) **Review of Probability and Statistics**
    * Operators
    * Random Variables
    * Probability / Probability Distributions
