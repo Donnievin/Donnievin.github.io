@@ -11,12 +11,13 @@ All datasets used are either synthetic or can be accessed publicly through [webs
 
 Topics: 
 
-1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/1_Intro2GLMs.ipynb) **Review of Prob and Stats**
-   * Random Component
-   * Linear Predictor
-   * Link functions (Canonical)
-   * Mean-Variance Relationship
-   * Likelihood Equations
+1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/0_Review_ProbStats.ipynb) **Review of Probability and Statistics**
+   * Operators
+   * Random Variables
+   * Probability / Probability Distributions
+   * Descriptive Statistics
+   * Spreads and Correlations
+   * Special Distributions
   
 ---
 
