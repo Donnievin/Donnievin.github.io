@@ -44,51 +44,55 @@ Topics:
 4  ANalysis Of VAriance (ANOVA)
    * MSE
    * SSE
+   * p-values
    * ANOVA identity
-   * A
+   * SE's of B
 
 ---
 
 
-5 Binomial Models: Symmetric PDFs
-   * Grouped vs Ungrouped
-   * Threshold Model
-   * Logistic Model
-   * Classification Table
+5 Diagnostics and Remedial measures in SLR
+   * ???
+   * ???
+   * Simultaneous Inference
 
 
 ---
 
 
-6 Binomial Models: Non-Symmestric PDFs 
-   * Log-log
-   * Clog-log
+6 ANOVA identity
+   * Interpretation of SST
+   * Interpretation of SSE
+   * Interpretation of SSR
+   * General Linear Test
+   * Matrix Approach to Linear Regression
 
 
 --- 
 
-7 Multinomial Models
-   * Nominal vs Ordinal
-   * Nomimal: Baseline category logits
+7 Multiple Linear Regression
+   * MLR Inference
+   * MLR Diagnostics
    * Ordinal: Cumulative logits (proportional odds)
 
 
 ---
 
 
-8 Poisson GLM pt 2
-   * Modeling count data
-   * Modeling rates
+8 Multicollinearity
+   * Regression with quantitative and qualitative predictors
+   * Diagnostics
+   * Outlinears
+   * Hidden Extrapolations
 
 
 ---
 
 
-9 Overdispersion
-   * Inflated Variance
-   * Zero-Inflated Poisson (ZIP) Model
-   * Zero-Inflated Negative Binomial (ZINB) Model
-   * Negative Binomial 2nd Order (NB2) Model
+9 Diagnostics
+   * DFFITS
+   * DFBETAS
+   * Cook's Distance
 
 
 --- 
