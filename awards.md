@@ -7,7 +7,7 @@ title: Awards🏆
 
 [George M.L. Sommerman Engineering Graduate Teaching Assistant Award](https://engineering.jhu.edu/faculty-staff/excellence-in-teaching-advising-mentoring-awards/)
   - `Year`: Spring 2026
-  - `Desc`: This award recognizes outstanding performance as a graduate teaching assistant in the Whiting School of Engineering. It is awarded to one graduate student from the Whiting School of Engineering (WSE) out of more than ?? teaching assistants across numerous classes. This is a student nominated, committee selected award.
+  - `Desc`: This award recognizes outstanding performance as a graduate teaching assistant in the Whiting School of Engineering. It is awarded to one graduate student TA every year from the Whiting School of Engineering (WSE) out of 100s of teaching assistants across all engineering courses offered at JHU. This is a student nominated, committee selected award.
 
 
 [National Science Foundation - Graduate Research Fellowship Program (NSF GRFP)](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) [ [Honorable Mention](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) ]
