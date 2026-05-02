@@ -28,6 +28,7 @@ Some useful DS, AI, DL workshops and topics:
 *Deep Learning Architectures:*
 -
   - Neural Networks (NNs)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Physics Informed Neural Networks [PINNs]
   - LSTMs
   - CNNs
   - ResNet
