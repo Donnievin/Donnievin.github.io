@@ -41,7 +41,7 @@ Topics:
 4  Random Variables
    * Discrete RVs (Chapter 4)
    * Continuous RVs ((Chapter 5)
-   * Measuring Predictive Power: LL, AIC, BIC
+
 
 ---
 
@@ -80,7 +80,7 @@ Topics:
 ---
 
 
-9 Linear Regression and Correlation
+9 The Chi-squared distribution
    * Inflated Variance
    * Zero-Inflated Poisson (ZIP) Model
    * Zero-Inflated Negative Binomial (ZINB) Model
@@ -89,7 +89,7 @@ Topics:
 
 --- 
 
-10 One-way ANOVA
+10 Linear Regression and Correlation
    * F-Distribution
    * Joint Independence
    * Conditional Independence
@@ -97,4 +97,11 @@ Topics:
 
 ---
 
+11 One-way ANOVA
+   * F-Distribution
+   * Joint Independence
+   * Conditional Independence
+
+
+---
 
