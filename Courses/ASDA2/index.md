@@ -41,7 +41,7 @@ Topics:
 ---
     
 4  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/3_GLM_Demo.ipynb) **Fitting/Building a GLM**
-   * Fitting Theory: Fisher Scoring vs Newton Raptison
+   * Fisher Scoring vs Newton Raptison
    * Model and Variable Selection
    * Measuring Predictive Power: LL, AIC, BIC
    * Effects of Collinearity (Ill-conditioned)
