@@ -4,7 +4,7 @@ permalink: /Introductory_Statistics/
 nav_exclude: true
 ---
 
-This follows the [Openstax Introductory Statistics](https://openstax.org/details/books/statistics) textbook and gives a summary of the high level concepts along with worked examples.
+This follows the [Openstax Introductory Statistics](https://openstax.org/details/books/statistics) textbook and gives a summary of the high level concepts along with worked examples. [Please be patient while I update this page from a previous section I called Statistics 101]
 
 Topics: 
 
