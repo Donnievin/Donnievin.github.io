@@ -17,6 +17,8 @@ Coming soon...
 
 [Applied Linear Statistics Models](Courses/ASDA1/index.md)
 
+[Introduction to Data Science](Courses/I2DS/index.md)
+
 [Statistical Learning](Courses/Statistical_Learning/index.md)
 
 [Bayesian Statistics](Courses/Bayesian_Statistics/index.md)
