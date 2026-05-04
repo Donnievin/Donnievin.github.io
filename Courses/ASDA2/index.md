@@ -31,10 +31,9 @@ Topics:
 ---
 
 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/3_GLM_Demo.ipynb) **Simple GLM Demo**
-   * Poisson GLM example
-   * Visualizing Data
+   * Generating Synthetic Data
    * Fitting the Null Model
-   * Fitting the Log-linear model
+   * Fitting the Poisson GLM (log-linear model)
    * Log-likelihood(Beta)
    * Log-likelihood(N_params)
   
