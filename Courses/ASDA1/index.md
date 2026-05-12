@@ -13,8 +13,7 @@ Topics:
 
 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA1/0_Review_ProbStats.ipynb) **Review of Probability and Statistics**
    * Operators
-   * Random Variables
-   * Probability / Probability Distributions
+   * Probability Basics
    * Descriptive Statistics
    * Spreads and Correlations
    * Special Distributions
