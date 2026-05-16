@@ -21,18 +21,19 @@ Topics:
 ---
 
   
-2 Linear Regression with 1 predictor
+2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA1/1_Linear_Regression.ipynb) **Linear Regression with 1 predictor**
+   * Simple Linear Regression (SLR)
+   * Brief Math Detour: Gradients, Jacobians, Hessians
+   * Ordinary Least Squares (OLS)
+   * Residuals: estimating Unexplained Variance
+   * Maximum Likelihood Estimation 
    * Fisher Information Matrix
-   * Alpha level
-   * p-value
-   * Type I vs Type II error
-   * One-sides and two-sided tests
   
 ---
 
 3 Inference in Regression
    * Correlation Analysis
-   * Hypothesis Tests
+   * Hypothesis Tests (Alpha level, p-values, Type I & Type II Error, One-sided and Two-sided tests)
    * Confidence Intervals (CI's)
    * Prediction Intervals (PI's)
    * Working-Hoteling
