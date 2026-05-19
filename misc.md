@@ -29,7 +29,9 @@ Some useful DS, AI, DL workshops and topics:
 -
   - Neural Networks (NNs)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Physics Informed Neural Networks [PINNs]
-  - LSTMs
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) AutoEncoders [AEs], Variational AutoEnoders [VAEs] and Vectir Quantized Variational AutoEncoders [VQ-VAEs]
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Denoising Diffusion Probabilistic Models [DDPMs]
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Diffusion Language Models [DiffLMs]
   - CNNs
   - ResNet
   - U-Net
