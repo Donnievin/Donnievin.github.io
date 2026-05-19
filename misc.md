@@ -16,7 +16,8 @@ Some useful DS, AI, DL workshops and topics:
 
 *Data Science Topics:*
 -
-  - [Principal Compnent Analysis (PCA)]()
+  -[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Low Rank Adaptation [LoRA]
+  - Geometric Transform Attention / Invariant Point Attention
   - [Naïve Bayes]()
   - [k Nearest Neighbor]()
   - [Logistic regression]()
@@ -29,7 +30,7 @@ Some useful DS, AI, DL workshops and topics:
 -
   - Neural Networks (NNs)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Physics Informed Neural Networks [PINNs]
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) AutoEncoders [AEs], Variational AutoEnoders [VAEs] and Vectir Quantized Variational AutoEncoders [VQ-VAEs]
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) AutoEncoders [AEs], Variational AutoEnoders [VAEs] and Vector Quantized Variational AutoEncoders [VQ-VAEs]
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Denoising Diffusion Probabilistic Models [DDPMs]
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Misc/PINNs.ipynb) Diffusion Language Models [DiffLMs]
   - CNNs
