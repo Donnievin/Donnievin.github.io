@@ -19,6 +19,10 @@ Coming soon...
 
 [Introduction to Data Science](Courses/I2DS/index.md)
 
+[Ordinary Differential Equations]()
+
+[Partial Differential Equations]()
+
 [Statistical Learning](Courses/Statistical_Learning/index.md)
 
 [Bayesian Statistics](Courses/Bayesian_Statistics/index.md)
