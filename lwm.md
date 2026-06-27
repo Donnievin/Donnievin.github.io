@@ -19,7 +19,7 @@ Coming soon...
 
 [Introduction to Data Science](Courses/I2DS/index.md)
 
-[Ordinary Differential Equations]()
+[Ordinary Differential Equations](Course/ODE/index.md)
 
 [Partial Differential Equations]()
 
