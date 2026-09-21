@@ -4,74 +4,84 @@ permalink: /Immunobiology/
 nav_exclude: true
 ---
 
-These python workbooks are adaptations from [Dr. Sergey Kushnarev's](https://sergey-kushnarev.github.io/about.html) "Applied Statistics and Data Analysis II" Course at Johns Hopkins University.
-This course focuses on `Generalized Linear Models (GLMs)` and material was adapted from [Foundations of Linear and Generalized Linear Models](https://download.e-bookshelf.de/download/0003/0821/70/L-G-0003082170-0005968026.pdf) by [Alan Agresti at UF](https://alanagresti.com) and [Generalized Linear Models by P. McCullagh and J.A Nelder](https://utstat.utoronto.ca/brunner/oldclass/2201s11/readings/glmbook.pdf).
-All datasets used are either synthetic or can be accessed publicly through [Dr. Agresti's website](https://alanagresti.com/glm/data/).
+These Python notebooks are adapted from [*Janeway's Immunobiology*, 9th Edition]([https://sergey-kushnarev.github.io/about.html](https://inmunologos.wordpress.com/wp-content/uploads/2020/08/janeways-immunobiology-9th-ed_booksmedicos.org_.pdf)) by Kenneth Murphy and Casey Weaver. All rights to the original material belong to the authors and publishers. These notebooks are personal study notes summarized by a graduate student at [Johns Hopkins University]() and are for educational purposes only.
+They are not affiliated with or endorsed by the authors, publisher, or JHU, and are not a complete substitute for the textbook.
+
 
 Topics: 
 
-1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/1_Intro2GLMs.ipynb) **Introduction to Immunobiology**
-   * Random Component
-   * Linear Predictor
-   * Link functions (Canonical)
-   * Mean-Variance Relationship
-   * Likelihood Equations
+1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/1_Intro2Immunobiology.ipynb) **Introduction to Immunobiology**
+   * Key Terms
+   * Key People
+   * Principles of Innate Immunity
+   * Principles of Adaptive Immunity
+   * Effector Mechanism of Immunity
   
 ---
 
   
-2 Innate Immunity
-   * Fisher Information Matrix
-   * Likelihood Ratio Test
-   * Wald Test
-   * Deviance ($G^2$)
-   * Pearson ($\Chi^2$)
-   * Residuals
+2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/2_Innate_Immunity.ipynb) **Innate Immunity**
+   * Initial Defenses
+   * Complement system
+   * Pattern Recognition
+   * Induced Innate Responses
+
+
+---
+
+  
+3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/3_Recog_of_Antigen.ipynb) **Recognition of Antigen**
+   * Antigen Recognition by B cell Receptors
+   * Antigen Recognition by T cell Receptors
+   * Immunoglobulin and T-cell Receptor Gene Rearrangements
+   * Evolution of the Adaptive Immune Response
+   * Antigen Presentation by T Lymphocytes
+   * The Major Histocompability Complex
   
 ---
 
-3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/3_GLM_Demo.ipynb) **Lymphocytes**
-   * Generating Synthetic Data
-   * Fitting the Null Model
-   * Fitting the Poisson GLM (log-linear model)
-   * Log-likelihood(Beta)
-   * Log-likelihood(N_params)
+4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/4_Lymphocytes.ipynb) **Mature Lymphocytes**
+   * General principles of signal transduction and propagation
+   * Lymphocyte activation
+   * Development of B Lymphocytes
+   * Development of T Lymphocytes
+   * Positive and Negative Selection
   
 
 ---
     
-4  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/ASDA2/3_GLM_Demo.ipynb) **Adaptive Immunity I**
-   * Fisher Scoring vs Newton Raptison
-   * Model and Variable Selection
-   * Measuring Predictive Power: LL, AIC, BIC
-   * Effects of Collinearity (Ill-conditioned)
-   * Example 1: Satellite Crabs
-   * Example 2: Florida House Prices
+5  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/5_Adaptive_Immunity_I.ipynb) **Adaptive Immunity I**
+   * T cell mediated immunity
+   * Humoral Immune Response I: B cell activation
+   * Humoral Immune Response II: Destruction of Antibody-coated Pathogens
 
 ---
 
 
-5 Adaptive Immunity II
-   * Grouped vs Ungrouped
-   * Threshold Model
-   * Logistic Model
-   * Classification Table
+6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/6_Adaptive_Immunity_II.ipynb) **Adaptive Immunity II**
+   * Dynamics of Innate and Adaptive Immunity
+   * Immunological Memory
+   * Mucosal Immune System
 
 
 ---
 
 
-6 Allergy and Autoimmunity
-   * Log-log
-   * Clog-log
+7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/7_Allergy_n_Autoimmunity.ipynb) **Allergy and Autoimmunity**
+   * Immunodeficiency Diseases
+   * Evasion and subversion
+   * IgE-mediated allergic diseases
+   * Self-Tolerance
+   * Autoimmunity
+   * Transplant rejection
 
 
 --- 
 
-7 Manipulation of Immune Response
-   * Nominal vs Ordinal
-   * Nomimal: Baseline category logits
-   * Ordinal: Cumulative logits (proportional odds)
+8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Donnievin/Donnievin.github.io/blob/main/Courses/Immunobiology/8_Manipulation_of_IR.ipynb) **Manipulation of Immune Response**
+   * Treatment of unwanted immune responses
+   * Using the immune response to attack tumors
+   * Fighting infectious diseases with vaccination
 
 
 ---
