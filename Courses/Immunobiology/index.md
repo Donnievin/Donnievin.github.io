@@ -36,7 +36,7 @@ Topics:
    * Immunoglobulin and T-cell Receptor Gene Rearrangements
    * Evolution of the Adaptive Immune Response
    * Antigen Presentation by T Lymphocytes
-   * The Major Histocompability Complex
+   * The Major Histocompatibility Complex (MHC)
   
 ---
 
