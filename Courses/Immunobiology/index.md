@@ -4,7 +4,7 @@ permalink: /Immunobiology/
 nav_exclude: true
 ---
 
-These Python notebooks are adapted from [Janeway's Immunobiology, 9th Edition]([https://sergey-kushnarev.github.io/about.html](https://inmunologos.wordpress.com/wp-content/uploads/2020/08/janeways-immunobiology-9th-ed_booksmedicos.org_.pdf)) by Kenneth Murphy and Casey Weaver. All rights to the original material belong to the authors and publishers. These notebooks are personal study notes summarized by a graduate student at [Johns Hopkins University]() and are for educational purposes only.
+These Python notebooks are adapted from [*Janeway's Immunobiology,* 9th Edition](https://inmunologos.wordpress.com/wp-content/uploads/2020/08/janeways-immunobiology-9th-ed_booksmedicos.org_.pdf)) by Kenneth Murphy and Casey Weaver. All rights to the original material belong to the authors and publishers. These notebooks are personal study notes summarized by a graduate student at [Johns Hopkins University](https://www.jhu.edu) and are for educational purposes only.
 They are not affiliated with or endorsed by the authors, publisher, or JHU, and are not a complete substitute for the textbook.
 
 
