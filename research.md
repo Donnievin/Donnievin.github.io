@@ -5,35 +5,12 @@ title: Research 🔬
 
 **Manuscripts**
 
-```bibtex
-@article{vincent2026BANANA,
-    title = {Multimodal language model enables natural reverse translation of antibody sequences},
-    author = {Vincet Jr, Donovan and Rincon, Natalia and Venkatayogi, Sravani and Chungyoun, Michael and Wiehe, Kevin J and Gray, Jeffrey J},
-    journal = {???},
-    year= {2026}
-}
-```
 
----
-
-```bibtex
-@article{vincent2026BANANA,
-    title = {Multimodal language model enables natural reverse translation of antibody sequences},
-    author = {Vincet Jr, Donovan and Rincon, Natalia and Venkatayogi, Sravani and Chungyoun, Michael and Wiehe, Kevin J and Gray, Jeffrey J},
-    journal = {???},
-    year= {2026}
-}
-```
-
-
-```bibtex
-@article{vincent2026BANANA,
-    title = {Multimodal language model enables natural reverse translation of antibody sequences},
-    author = {Vincet Jr, Donovan and Rincon, Natalia and Venkatayogi, Sravani and Chungyoun, Michael and Wiehe, Kevin J and Gray, Jeffrey J},
-    journal = {???},
-    year= {2026}
-}
-```
+<ol reversed>
+  <li>"The origins of off-centre massive black holes in dwarf galaxies", Monthly Notices of the Royal Astronomical Society, 2021 [Link](https://doi.org/10.1093/mnras/stab1665)</li>
+  <li>"The origins of off-centre massive black holes in dwarf galaxies", Monthly Notices of the Royal Astronomical Society, 2021 [Link](https://doi.org/10.1093/mnras/stab1665)</li>
+  <li>"The origins of off-centre massive black holes in dwarf galaxies", Monthly Notices of the Royal Astronomical Society, 2021 [Link](https://doi.org/10.1093/mnras/stab1665)</li>
+</ol>
 
 
 **Posters**
