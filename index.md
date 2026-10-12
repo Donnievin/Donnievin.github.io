@@ -7,7 +7,7 @@ Howdy! My name is Donovan and I am a PhD student at Johns Hopkins University usi
 
 Feel free to check out [info about me](name.md), details about [current research](name2.md), and my passionate side hobby [teaching tutorials](name3.md)
 
-I am passionate about antibodies. My current research is focused on finding unique ways to model antibody genes to better understand their underlying mechanisms (specifically somatic hypermutation and selection biases). To do so, I typically use language models paired with statistical modeling. However, I also use representations from other means to assist with modeling these genes if necessary.
+`I am passionate about antibodies`. My current research is focused on finding unique ways to model antibody genes to better understand their underlying mechanisms (specifically somatic hypermutation and selection biases). To do so, I typically use language models paired with statistical modeling. However, I also use representations from other means to assist with modeling these genes if necessary.
 
 **What keeps me up at night:** 
   - **Antibody design**: Can you believe that a single-chain variable fragment (scFv) which is approximately 225-250 amino acids long has over 2e200 possible combinations. For reference there are up to 4e11 stars in the Milky Way galaxy. If each star became a galaxy of stars, we would still have LESS stars than possible scFv combinations. That means given a target, we are literally searching for a `needle in a haystack`. Using deep learning tools is analogous to going up to the haystack with a `kitchen magnet`. While we aren't guaranteed to find exactly what we are looking for in the haystack, but it sure does make the search slightly easier!
