@@ -14,6 +14,27 @@ title: Research 🔬
 }
 ```
 
+---
+
+```bibtex
+@article{vincent2026BANANA,
+    title = {Multimodal language model enables natural reverse translation of antibody sequences},
+    author = {Vincet Jr, Donovan and Rincon, Natalia and Venkatayogi, Sravani and Chungyoun, Michael and Wiehe, Kevin J and Gray, Jeffrey J},
+    journal = {???},
+    year= {2026}
+}
+```
+
+
+```bibtex
+@article{vincent2026BANANA,
+    title = {Multimodal language model enables natural reverse translation of antibody sequences},
+    author = {Vincet Jr, Donovan and Rincon, Natalia and Venkatayogi, Sravani and Chungyoun, Michael and Wiehe, Kevin J and Gray, Jeffrey J},
+    journal = {???},
+    year= {2026}
+}
+```
+
 
 **Posters**
 
