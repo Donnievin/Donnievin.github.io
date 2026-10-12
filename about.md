@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a 4th year PhD candidate in `Chemical and Biomolecular Engineering` and Master's student in  `Applied Mathematics and Statistics` at `Johns Hopkins University`. I am currently in Dr. Jeffrey J. Gray's lab, developing antibody-specific language models to help predict develop ability properties.
+I am a 4th year PhD candidate in `Chemical and Biomolecular Engineering` and Master's student in  `Applied Mathematics and Statistics` at `Johns Hopkins University`. I am currently in Dr. [Jeffrey J. Gray's lab](https://graylab.jhu.edu), developing antibody-specific language models for developability screening.
 
 For 
 
